@@ -1,4 +1,7 @@
 p{
-    color: blue;
+    color: navy;
     font: 400;
+}
+h3{
+    text-decoration: dotted;
 }
